@@ -1,0 +1,16 @@
+openai-whisper
+torch
+torchaudio
+silero-vad
+sounddevice
+soundfile
+numpy
+pandas
+jiwer
+coqui-tts
+faster-whisper
+pyaudio
+scipy
+groq
+gtts
+playsound==1.2.2

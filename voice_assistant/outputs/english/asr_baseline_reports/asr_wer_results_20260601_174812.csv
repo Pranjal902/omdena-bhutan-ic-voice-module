@@ -1,0 +1,61 @@
+id,ground_truth,service,noise_condition,snr_db,prediction,wer
+Q001,What papers I need for timber permit?,permits,snr_15db,15.0,what papers I need for timber permit.,0.0
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_15db,15.0,which documents required for construction permit in Tinfu.,0.125
+Q003,I want to apply sand permit what I need to bring?,permits,snr_15db,15.0,I want to apply sand permit what I need to bring.,0.0
+Q004,For trade licence what is the document?,permits,snr_15db,15.0,for trade license which is the document.,0.2857
+Q005,I need forest permit papers list,permits,snr_15db,15.0,I need forest permit papers list.,0.0
+Q006,How to check my permit application?,permits,snr_15db,15.0,How to check my permit application?,0.0
+Q007,My permit application where it is now?,permits,snr_15db,15.0,My Prometh application where it is now.,0.1429
+Q008,I submit construction permit last week still no news,permits,snr_15db,15.0,I submit construction permit last week still no news.,0.0
+Q009,How to track my timber permit status?,permits,snr_15db,15.0,How to track my Pimble Permit status?,0.1429
+Q010,My reference number is BT2024 where I check?,permits,snr_15db,15.0,My reference number is BT 2024 where I check.,0.25
+Q011,Where is permit office in Thimphu?,permits,snr_15db,15.0,with various permit for testing China products,1.0
+Q012,Which office I go for construction permit in Paro?,permits,snr_15db,15.0,which office I go for construction permit in Paro?,0.0
+Q013,What time permit office open?,permits,snr_15db,15.0,What time permit for this open?,0.4
+Q014,Address of forest permit office please,permits,snr_15db,15.0,address of Forest Wormit Office Peace.,0.3333
+Q015,Nearest permit office from Bumthang?,permits,snr_15db,15.0,nearest permit office from Bumthai.,0.2
+Q016,How do I get health card in Bhutan?,health,snr_15db,15.0,How do I get help card in Bhutan?,0.125
+Q017,What papers I need for hospital registration?,health,snr_15db,15.0,What papers I need for hospital registration?,0.0
+Q018,Child vaccination what documents to bring?,health,snr_15db,15.0,What documents to bring?,0.3333
+Q019,What I need for medical certificate?,health,snr_15db,15.0,what I need for medical certificate.,0.0
+Q020,Antenatal care what documents required?,health,snr_15db,15.0,Anti-natal care what documents required?,0.2
+Q021,Where is nearest hospital from Paro?,health,snr_15db,15.0,Where is nearest hospital from Paro?,0.0
+Q022,Which hospital I go in Thimphu?,health,snr_15db,15.0,which hospital I go in Kimpu.,0.1667
+Q023,BHU near me in Bumthang dzongkhag?,health,snr_15db,15.0,v이죠 n้至 prayatt ώ adorable,1.0
+Q024,Where I find dental clinic in Bhutan?,health,snr_15db,15.0,Where I find dental clinic in Bhutan?,0.0
+Q025,Emergency hospital which one in Thimphu?,health,snr_15db,15.0,emergency hospital which one went in through?,0.3333
+Q026,How to register for BHU services?,health,snr_15db,15.0,How to register for BHU services?,0.0
+Q027,I want to book appointment at hospital how?,health,snr_15db,15.0,I want to book appointment at Hospital Hall.,0.125
+Q028,How to start getting health card?,health,snr_15db,15.0,How to start getting health card?,0.0
+Q029,Register my child for vaccination how?,health,snr_15db,15.0,"Register my child for vaccination, huh?",0.1667
+Q030,How I begin getting maternity care?,health,snr_15db,15.0,How I begin getting maternity care?,0.0
+Q031,What papers I need register business?,business,snr_15db,15.0,What papers I need register business?,0.0
+Q032,Documents for sole proprietorship Bhutan?,business,snr_15db,15.0,Documents for Soul Proprietary Shabhutan,0.6
+Q033,Trade licence what papers required?,business,snr_15db,15.0,Trade license what papers required,0.2
+Q034,I want open small shop what documents?,business,snr_15db,15.0,I won't open small shop work documents.,0.2857
+Q035,Partnership business registration what I need?,business,snr_15db,15.0,partnership business registration what I need.,0.0
+Q036,How to register business in Bhutan?,business,snr_15db,15.0,How to register business in Bhutan?,0.0
+Q037,I want to start small shop how to begin?,business,snr_15db,15.0,I want to start small shop how to begin.,0.0
+Q038,Steps for sole proprietorship registration?,business,snr_15db,15.0,Steps for soil proprietorship registration,0.2
+Q039,How I apply trade licence?,business,snr_15db,15.0,How I apply tree license?,0.4
+Q040,Where I start to register my company?,business,snr_15db,15.0,where I start to register my company.,0.0
+Q041,Where is business registration office Thimphu?,business,snr_15db,15.0,"Where is business registration office, Thimphu?",0.0
+Q042,MOEA office address in Bhutan?,business,snr_15db,15.0,near office addressed in Bhutan.,0.4
+Q043,Which office I go for trade licence?,business,snr_15db,15.0,which office I go for trade license.,0.1429
+Q044,Business registration office open what time?,business,snr_15db,15.0,Business registration office open with time.,0.1667
+Q045,Nearest registration office from Paro?,business,snr_15db,15.0,nearest registration office from Borrow.,0.2
+Q046,Can I get permit if I am not citizen?,permits,snr_15db,15.0,Can I get permit if I am not citizen?,0.0
+Q047,Am I eligible for timber permit if land not in my name?,permits,snr_15db,15.0,Am I eligible for timber permits if land not in my name?,0.0833
+Q048,Foreign person can get business permit?,permits,snr_15db,15.0,Foreign person can get business permit.,0.0
+Q049,I am from India can I register business in Bhutan?,business,snr_15db,15.0,"I am from India, can I register business in Bhutan?",0.0
+Q050,Can child get BHU service free?,health,snr_15db,15.0,Can child get VHU service free?,0.1667
+Q051,Is BHU service free for all Bhutanese?,health,snr_15db,15.0,is BHU service free for all Bhutanese.,0.0
+Q052,Who can get free vaccination in Bhutan?,health,snr_15db,15.0,Who can get free vaccination in Bhutan?,0.0
+Q053,Can foreign worker get hospital service?,health,snr_15db,15.0,Can Foreign Worker get Hospital Service?,0.0
+Q054,Am I eligible to register sole proprietorship?,business,snr_15db,15.0,Am I eligible to register sole proprietorship?,0.0
+Q055,What is BHU and what it does?,health,snr_15db,15.0,What is BHU and what it does?,0.0
+Q056,How long permit application take?,permits,snr_15db,15.0,How long permit application take?,0.0
+Q057,What is trade licence in Bhutan?,business,snr_15db,15.0,which is trade license in Bhutan.,0.3333
+Q058,Tell me about business registration process,business,snr_15db,15.0,Tell me about business registration process.,0.0
+Q059,What services government provide for health?,health,snr_15db,15.0,What services government provide for health?,0.0
+Q060,How long business registration take in Bhutan?,business,snr_15db,15.0,How long business registration take in Bhutan?,0.0

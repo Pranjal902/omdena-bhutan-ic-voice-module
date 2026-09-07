@@ -1,0 +1,10 @@
+{
+  "timestamp": "20260612_223859",
+  "language": "dzo",
+  "source": "file",
+  "audio_path": "C:\\Users\\Pranjal_Jain\\Desktop\\Omdena_Bhutan_AI_voice_app\\Voice-First\\team-c-voice\\voice_assistant\\outputs\\dzongkha\\asr\\mic_capture\\from_file_20260612_223857_smoke_20260612_221841_idx0.wav",
+  "transcript": "སྐུ་ཚ་ཚུ་གིས་མཛད་པ་བཞུགས་སོག་མཛད་པ་ལོཝ་དམ་པའི་ཐུགས་ཉིད་གནང་ནི་ཟེར་བའི་ཁས་ང་",
+  "model_load_seconds": 6.236,
+  "process_seconds": 2.118,
+  "device": "cpu"
+}

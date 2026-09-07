@@ -1,0 +1,10 @@
+id,ground_truth,service,noise_condition,snr_db,prediction,wer
+Q001,What papers I need for timber permit?,permits,snr_20db,20.0,what papers I need for timber permits.,0.1429
+Q001,What papers I need for timber permit?,permits,snr_15db,15.0,What papers I need for timber permits?,0.1429
+Q001,What papers I need for timber permit?,permits,snr_10db,10.0,What papers I need for timber permit?,0.0
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_20db,20.0,which documents required for construction permit in Timphu.,0.125
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_15db,15.0,which documents required for construction for a metronome pool.,0.5
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_10db,10.0,which documents required for construction for a meeting came full.,0.625
+Q003,I want to apply sand permit what I need to bring?,permits,snr_20db,20.0,I want to apply sand permit what I need to bring.,0.0
+Q003,I want to apply sand permit what I need to bring?,permits,snr_15db,15.0,I want to apply sand from it what I need to bring.,0.1818
+Q003,I want to apply sand permit what I need to bring?,permits,snr_10db,10.0,I want to apply sand permit what I need to bring.,0.0

@@ -1,0 +1,11 @@
+repeat,sentence_id,input_text,status,latency_seconds,file_size_bytes,asr_prediction,proxy_wer,error_message
+1,1,Your registration is completed.,success,0.273,19776, Your registration is completed.,0.0,
+1,2,Please submit your citizenship card and passport copy.,success,0.6411,31488, Please submit your citizenship card and passport copy.,0.0,
+1,3,Your appointment is confirmed for tomorrow at ten AM.,success,0.3206,31296, Your appointment is confirmed for tomorrow at 10am.,0.2222,
+1,4,The municipal office is closed on weekends.,success,0.3258,26496, The municipal office is closed on weekends.,0.0,
+1,5,You can check your application status online.,success,0.3483,27648, You can check your application status online.,0.0,
+1,6,Electricity bill payment is due on the fifteenth.,success,0.3676,28032, Electricity Bill payment is due on the 15th.,0.125,
+1,7,Please visit the nearest service center in Thimphu.,success,0.2898,29568, Please visit the nearest service center in Kimful.,0.125,
+1,8,The document verification process takes three working days.,success,0.3434,35520, The document verification process takes three working days.,0.0,
+1,9,Your land tax request has been approved.,success,0.3221,24768, Your land tax request has been approved.,0.0,
+1,10,"For emergency support, contact the district office immediately.",success,0.3618,39168," For emergency support, contact the district office immediately.",0.0,

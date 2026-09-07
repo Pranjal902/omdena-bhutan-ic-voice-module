@@ -1,0 +1,4 @@
+sentence_id,input_text,audio_file,listener_name,naturalness_1to5,clarity_1to5,pronunciation_1to5,notes
+1,"Your registration is completed.","tts_evaluation/gtts/outputs/gtts_eval_audio/<run_id>/s01_r01.mp3",,,
+2,"Please submit your citizenship card and passport copy.","tts_evaluation/gtts/outputs/gtts_eval_audio/<run_id>/s02_r01.mp3",,,
+3,"Your appointment is confirmed for tomorrow at ten AM.","tts_evaluation/gtts/outputs/gtts_eval_audio/<run_id>/s03_r01.mp3",,,

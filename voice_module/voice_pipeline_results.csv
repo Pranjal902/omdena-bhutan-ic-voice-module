@@ -1,0 +1,8 @@
+Timestamp,User_Query,ASR_Time,LLM_Time,TTS_Time,Total_E2E_Time
+2026-06-01 15:55:53, What is the minimum age to start a business?,6.58,0.99,23.73,38.17
+2026-06-01 17:18:07,How can I start a business?,7.13,1.94,19.86,39.83
+2026-06-01 17:19:14,How can I start a business?,6.08,1.6,28.63,42.44
+2026-06-01 20:09:28,I want to start a real estate business. How can I start?,7.58,4.61,19.94,39.97
+2026-06-01 20:16:02,I want to open a new restaurant what documents are needed,7.21,1.77,21.42,39.17
+2026-06-01 20:20:22,I want to open a new restaurant what documents are needed.,2.17,1.32,50.14,63.92
+2026-06-01 20:23:50,I want to open a new restaurant what documents are needed.,2.33,2.73,13.1,25.12

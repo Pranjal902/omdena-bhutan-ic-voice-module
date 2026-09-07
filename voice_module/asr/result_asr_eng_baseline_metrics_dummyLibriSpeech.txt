@@ -1,0 +1,18 @@
+ASR with clean small dataset for English language
+
+- librispeech_asr_dummy provided on HuggingFace
+### Metrics evaluated with dataset:
+- WER
+- RTF, Speedup
+
+### Result:
+Whisper model is benchmarked with LibriSpeech original dataset.
+
+Current WER for dummy dataset is bit larger than the reported one for medium model.
+
+| model		  | WER		 | RTF  	  | Speedup  |
+|-------------|----------|--------|----------|
+| tiny        | 11.21%   | 0.065  | 15.4x    |
+| medium      |  6.60%   | 0.116  |  8.6x    |
+
+ASR baseline for English language: WER < 20%

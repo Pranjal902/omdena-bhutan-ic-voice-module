@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260612_221805",
+  "dataset": "Jyoti-77/dzongkha-asr",
+  "row_index": 0,
+  "language_adapter": "dzo",
+  "audio_path": "C:\\Users\\Pranjal_Jain\\Desktop\\Omdena_Bhutan_AI_voice_app\\Voice-First\\team-c-voice\\voice_assistant\\outputs\\dzongkha\\asr\\smoke_test\\smoke_20260612_221805_idx0.wav",
+  "audio_duration_s": 5.136,
+  "reference_text": "༄༅། སྐུ་ཚབ་ཚུ་གིས་མཛད་པ་བཞུགས་སོ། མཛད་པ་ལེའུ་\n1\nདམ་པའི་ཐུགས་ཉིད་གནང་ནི་ཟེར་བའི་ཁས་བླངས།",
+  "prediction_text": "སྐུ་ཚ་ཚུ་གིས་མཛད་པ་བཞུགས་སོག་མཛད་པ་ལོཝ་དམ་པའི་ཐུགས་ཉིད་གནང་ནི་ཟེར་བའི་ཁས་ང་",
+  "model_load_seconds": 6.435,
+  "asr_process_seconds": 5.115,
+  "device": "cpu",
+  "smoke_test_passed": true
+}

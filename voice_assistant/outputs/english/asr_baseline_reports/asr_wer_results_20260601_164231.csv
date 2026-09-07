@@ -1,0 +1,13 @@
+id,ground_truth,service,noise_condition,snr_db,prediction,wer
+Q001,What papers I need for timber permit?,permits,clean,,What papers I need for timber permit?,0.0
+Q001,What papers I need for timber permit?,permits,snr_20db,20.0,What people is I need for timber permit?,0.2857
+Q001,What papers I need for timber permit?,permits,snr_10db,10.0,So what details are you..,1.0
+Q001,What papers I need for timber permit?,permits,snr_5db,5.0,What do you think I need to do in the corner?,1.1429
+Q002,Which documents required for construction permit in Thimphu?,permits,clean,,which documents required for construction permit in Tim夫.,0.125
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_20db,20.0,which documents required for construction permit in TINFU.,0.125
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_10db,10.0,which documents required for construction for a mettinging pool.,0.5
+Q002,Which documents required for construction permit in Thimphu?,permits,snr_5db,5.0,"which, often then tablespoons a mass reduction or nothing can do.",1.25
+Q003,I want to apply sand permit what I need to bring?,permits,clean,,I want to apply sand permit what I need to bring.,0.0
+Q003,I want to apply sand permit what I need to bring?,permits,snr_20db,20.0,I want to apply sand permit what I need to bring.,0.0
+Q003,I want to apply sand permit what I need to bring?,permits,snr_10db,10.0,I want to apply some permit water needs to bring.,0.3636
+Q003,I want to apply sand permit what I need to bring?,permits,snr_5db,5.0,I want you to apply something at what I need to bring.,0.2727
